@@ -7,8 +7,10 @@ const scriptRules = require('./script.json');
 
 module.exports = new Script({
     processing: {
-        //prompt: (bot) => bot.say('Beep boop...'),
-        receive: () => 'processing'
+        prompt: (bot) => bot.say('Beep boop...'),
+        receive: (bot) => {
+            return bot.say('Super cool!').then(() => 'start');
+        }
     },
 
     start: {
