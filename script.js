@@ -15,7 +15,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say("Alors, tu veux en savoir plus sur l'exposition de Jeanne Lainé ? Dis moi HELLO :). .")
+            return bot.say("Alors, tu veux en savoir plus sur l'exposition de Jeanne Lainé ? Dis moi HELLO :).")
                 .then(() => 'speak');
         }
     },
