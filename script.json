@@ -1,6 +1,4 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "CONNECT ME": "",
     "ESTEPHE": "Bonjour. Je m'appelle Estèphe, je suis là pour répondre à toutes tes questions. Que veux-tu savoir ? Si tu veux des informations sur les reporters, dis 'Reporter', sur l'exposition, dis 'Exposition', ou même sur l'organisatrice, Jeanne lainé, dis 'Jeanne', sur l'organisation de l'exposition, dis 'Organisation' et enfin sur les informations pratiques, dis 'Information' ",
     "DISCONNECT": "Roger that, EstherBot is back.",
@@ -25,5 +23,7 @@
     "ASSOCIATION": "Notre ambition : Informer Notre but : Dénoncer les violations du droit des enfants, des crimes contre l’humanité et contribuer au respect des valeurs humaines en dénonçant les responsables de tels crimes internationaux. Le Croix Des Petits Champs est une association, créée par Jeanne Lainé et Mathurin Hochart, sous le régime de la loi 1901.",
     "CLICHETS": "",
     "SITE": "Voici le lien du site : http://lecroixdespetitschamps.strikingly.com/",
-    "LIVRE": "Le book regroupera l'ensemble des clichés de l'exposition mais aussi des clichés exclusifs, des anecdotes, des informations sur les conflits mais aussi des messages personnels de nos partenaire. Il sera en en édition limitée, au pri de 80 euros"
+    "LIVRE": "Le book regroupera l'ensemble des clichés de l'exposition mais aussi des clichés exclusifs, des anecdotes, des informations sur les conflits mais aussi des messages personnels de nos partenaire. Il sera en en édition limitée, au pri de 80 euros",
+    "MERCI": "C'est avec grand plaisir ! Si tu souhaites retourner au début, dis moi 'Retour'.",
+    "RETOUR": "Bonjour. Je m'appelle Estèphe, je suis là pour répondre à toutes tes questions. Que veux-tu savoir ? Si tu veux des informations sur les reporters, dis 'Reporter', sur l'exposition, dis 'Exposition', ou même sur l'organisatrice, Jeanne lainé, dis 'Jeanne', sur l'organisation de l'exposition, dis 'Organisation' et enfin sur les informations pratiques, dis 'Information' ",
 }
